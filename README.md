@@ -131,6 +131,7 @@
 |   notifyUrl    |  通知地址   |       支付成功的回调地址        |
 |     mobile     | 收款方手机号  |         区分商户唯一         |
 |      mac       |  加密mac  |                        |
+|      qrflag       |  gdm， 动态码 dtm  |      不参与mac值计算          |
 
 #### 返回参数
 
